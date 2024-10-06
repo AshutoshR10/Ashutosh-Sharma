@@ -2,6 +2,8 @@
 
 
 # Hi there 👋, I'am Ashutosh
+<img align="right" alt="Coding" width="400" src="https://github.com/AshutoshR10/AshutoshR10/blob/main/code_fi_lofi_beats_to_code_relax_to-ezgif.com-video-to-gif-converter.gif">
+
 I'am Ashutosh from India and I am a Game Developer and Unity Game Developer. I really enjoy learning languages, game development and Unity Game engine.
 ## Game Developer/ Unity Game Developer
 ## Skills and Experience
