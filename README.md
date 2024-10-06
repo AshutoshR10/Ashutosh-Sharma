@@ -2,6 +2,7 @@
 
 
 # Hi there 👋, I'am Ashutosh
+I'am Ashutosh from India and I am a Game Developer and Unity Game Developer. I really enjoy learning languages, game development and Unity Game engine.
 ## Game Developer/ Unity Game Developer
 ## Skills and Experience
 * 🎮 Game Development
@@ -13,7 +14,7 @@
 
 <img src="https://github.com/AshutoshR10/AshutoshR10/blob/main/Monopoly-ezgif.com-optimize.gif" width="256"/>
 
-I'am Ashutosh from India and I am a Game Developer and Unity Game Developer. I really enjoy learning languages, game development and Unity Game engine.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshR10)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on My own personal project 
 - 🌱 I’m currently learning Unity Engine/Game Development 
