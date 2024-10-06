@@ -1,10 +1,14 @@
-### Hi there 👋, Ashutosh
-#### Game Developer
-![Game Developer](https://media.licdn.com/dms/image/v2/C4E16AQHFvfRKjXR6MQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1609166260145?e=1733961600&v=beta&t=K5Ub0FTUgnk27ymZIaubkoYccJZRaDQxpwTHDoL_MRg)
+![Game Developer>](https://github.com/AshutoshR10/Ashutosh-Sharma/blob/main/pngtree-video-game-development-minimal-infographic-web-banner-vector-image_1432541.jpg)
+
+
+# Hi there 👋, I'am Ashutosh
+## Game Developer/ Unity Game Developer
+## Skills and Experience
+* 🎮 Game Development
+* 🕹️ Unity Engine
+* 💻 C# | C++
 
 I'am Ashutosh from India and I am a Game Developer and Unity Game Developer. I really enjoy learning languages, game development and Unity Game engine.
-
-Skills: Unity Engine | Game Development | C# | C++ | Git
 
 - 🔭 I’m currently working on My own personal project 
 - 🌱 I’m currently learning Unity Engine/Game Development 
